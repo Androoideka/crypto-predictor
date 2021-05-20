@@ -1,0 +1,1 @@
+["BTC", "ETH", "BNB", "ADA", "USDT", "XRP", "DOGE", "DOT1", "BCH", "UNI3", "LTC", "USDC", "LINK", "SOL1", "MATIC", "XLM", "VET", "ETC", "THETA", "TRX", "EOS", "FIL", "AAVE", "NEO", "XMR", "LUNA1", "MKR", "XTZ", "MIOTA", "BSV", "ATOM1", "AVAX", "KSM", "ALGO", "CRO", "BTT1", "COMP", "WAVES", "DASH", "HBAR", "ZEC", "XEM", "EGLD", "SUSHI", "YFI", "SNX", "DCR", "CHZ", "CEL", "ZIL"]
