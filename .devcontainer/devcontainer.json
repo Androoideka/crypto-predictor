@@ -1,6 +1,6 @@
 {
-    "name": "Jupyter ML",
-    "image": "androoideka/jupyter-ml",
+    "name": "Jupyter Tensorflow",
+    "image": "androoideka/jupyter-tf:latest",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {
             "installZsh": "false",
@@ -8,7 +8,7 @@
             "userUid": "1000",
             "userGid": "1000",
             "upgradePackages": "true"
-        },
+        }
     },
     "customizations": {
         "vscode": {
